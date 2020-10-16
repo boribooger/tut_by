@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="tut_by" verbose="1" >
+
+    <test name="Regression1">
+        <classes>
+            <class name="TestClass"/>
+        </classes>
+    </test>
+</suite>
